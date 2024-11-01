@@ -1,4 +1,4 @@
-package com.krass.liquidtestphoto.models
+package com.krass.photosofsamples.models
 
 import android.content.Context
 import android.net.Uri

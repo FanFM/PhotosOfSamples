@@ -1,4 +1,4 @@
-package com.krass.liquidtestphoto.main.composables
+package com.krass.photosofsamples.main.composables
 
 import android.content.ContentValues
 import android.content.Context
@@ -48,9 +48,9 @@ import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.compose.LocalLifecycleOwner
-import com.krass.liquidtestphoto.photo.PhotoActivity
-import com.krass.liquidtestphoto.R
-import com.krass.liquidtestphoto.photo.composables.squareSize
+import com.krass.photosofsamples.photo.PhotoActivity
+import com.krass.photosofsamples.R
+import com.krass.photosofsamples.photo.composables.squareSize
 import kotlin.coroutines.resume
 import kotlin.coroutines.suspendCoroutine
 

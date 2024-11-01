@@ -1,6 +1,5 @@
-package com.krass.liquidtestphoto
+package com.krass.photosofsamples
 
-import android.content.ContentValues
 import android.content.Context
 import android.database.Cursor
 import android.net.Uri

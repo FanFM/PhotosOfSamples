@@ -1,4 +1,4 @@
-package com.krass.liquidtestphoto
+package com.krass.photosofsamples
 
 import org.junit.Test
 

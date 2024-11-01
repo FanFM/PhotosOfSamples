@@ -1,4 +1,4 @@
-package com.krass.liquidtestphoto.main.composables
+package com.krass.photosofsamples.main.composables
 
 import android.app.Activity
 import android.content.Context

@@ -1,4 +1,4 @@
-package com.krass.liquidtestphoto.photo.composables
+package com.krass.photosofsamples.photo.composables
 
 import androidx.compose.runtime.Stable
 import androidx.compose.ui.Modifier

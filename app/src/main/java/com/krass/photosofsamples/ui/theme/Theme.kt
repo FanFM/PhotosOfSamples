@@ -1,4 +1,4 @@
-package com.krass.liquidtestphoto.ui.theme
+package com.krass.photosofsamples.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -7,7 +7,7 @@ import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.ui.graphics.Color
-import com.krass.liquidtestphoto.main.composables.rememberSystemUiController
+import com.krass.photosofsamples.main.composables.rememberSystemUiController
 
 private val DarkColorScheme = darkColorScheme(
     primary = Black,

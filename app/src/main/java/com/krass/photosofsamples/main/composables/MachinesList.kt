@@ -1,4 +1,4 @@
-package com.krass.liquidtestphoto.main.composables
+package com.krass.photosofsamples.main.composables
 
 import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.background
@@ -13,7 +13,6 @@ import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
-import androidx.compose.material3.BottomAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -37,14 +36,13 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.res.vectorResource
-import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.compose.LocalLifecycleOwner
-import com.krass.liquidtestphoto.R
-import com.krass.liquidtestphoto.SamplesNames
+import com.krass.photosofsamples.R
+import com.krass.photosofsamples.SamplesNames
 
 
 @OptIn(ExperimentalMaterial3Api::class)

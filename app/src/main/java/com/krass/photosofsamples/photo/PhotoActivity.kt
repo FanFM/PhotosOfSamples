@@ -1,8 +1,7 @@
-package com.krass.liquidtestphoto.photo
+package com.krass.photosofsamples.photo
 
 import android.content.ContentValues
 import android.content.Context
-import android.database.Cursor
 import android.graphics.Bitmap
 import android.graphics.ImageDecoder
 import android.net.Uri
@@ -39,12 +38,11 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.krass.liquidtestphoto.R
-import com.krass.liquidtestphoto.SamplesNames
-import com.krass.liquidtestphoto.photo.composables.Dropdown
-import com.krass.liquidtestphoto.ui.theme.MainTheme
+import com.krass.photosofsamples.R
+import com.krass.photosofsamples.SamplesNames
+import com.krass.photosofsamples.photo.composables.Dropdown
+import com.krass.photosofsamples.ui.theme.MainTheme
 import java.io.File
 import java.io.FileOutputStream
 import java.io.OutputStream

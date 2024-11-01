@@ -1,4 +1,4 @@
-package com.krass.liquidtestphoto.main
+package com.krass.photosofsamples.main
 
 import android.content.Context
 import android.os.Bundle
@@ -12,13 +12,13 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.lifecycle.compose.LocalLifecycleOwner
-import com.krass.liquidtestphoto.BaseActivity
-import com.krass.liquidtestphoto.SamplesNames
-import com.krass.liquidtestphoto.main.composables.CameraPreviewScreen
-import com.krass.liquidtestphoto.main.composables.App
-import com.krass.liquidtestphoto.main.composables.MachinesList
-import com.krass.liquidtestphoto.models.Images
-import com.krass.liquidtestphoto.ui.theme.MainTheme
+import com.krass.photosofsamples.BaseActivity
+import com.krass.photosofsamples.SamplesNames
+import com.krass.photosofsamples.main.composables.CameraPreviewScreen
+import com.krass.photosofsamples.main.composables.App
+import com.krass.photosofsamples.main.composables.MachinesList
+import com.krass.photosofsamples.models.Images
+import com.krass.photosofsamples.ui.theme.MainTheme
 
 
 class MainActivity : BaseActivity() {

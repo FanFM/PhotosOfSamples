@@ -1,9 +1,8 @@
-package com.krass.liquidtestphoto.main.composables
+package com.krass.photosofsamples.main.composables
 
 import android.content.Intent
 import android.net.Uri
 import android.util.Log
-import android.widget.Toast
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -24,12 +23,7 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Call
-import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.material3.CenterAlignedTopAppBar
-import androidx.compose.material3.DropdownMenu
-import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -61,7 +55,6 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat.startActivity
-import androidx.core.content.FileProvider
 import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
@@ -69,12 +62,11 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import coil.compose.AsyncImage
-import com.krass.liquidtestphoto.R
-import com.krass.liquidtestphoto.SamplesNames
-import com.krass.liquidtestphoto.models.Images
-import com.krass.liquidtestphoto.photo.PhotoActivity
-import com.krass.liquidtestphoto.ui.theme.MainTheme
-import java.io.File
+import com.krass.photosofsamples.R
+import com.krass.photosofsamples.SamplesNames
+import com.krass.photosofsamples.models.Images
+import com.krass.photosofsamples.photo.PhotoActivity
+import com.krass.photosofsamples.ui.theme.MainTheme
 
 lateinit var images: MutableList<Uri>
 

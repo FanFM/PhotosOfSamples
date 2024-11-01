@@ -1,4 +1,4 @@
-package com.krass.liquidtestphoto
+package com.krass.photosofsamples
 
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -7,7 +7,6 @@ import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
-import androidx.core.content.ContextCompat
 import androidx.core.content.ContextCompat.*
 
 open class BaseActivity: ComponentActivity() {

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.krass.liquidtestphoto"
+    namespace = "com.krass.photosofsamples"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.krass.liquidtestphoto"
+        applicationId = "com.krass.photosofsamples"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
