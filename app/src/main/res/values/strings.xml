@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Photos of samples</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="test">LiquidTestPhoto</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="add_new_folder">New Test</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="send">Send</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="machines">Machines</string>
+    <string name="choose_name">Choose Name</string>
+    <string name="title_activity_machines">MachinesActivity</string>
+    <string name="machines_and_hosts">Machines and Hosts</string>
+    <string name="choose_option">Choose an option</string>
+</resources>

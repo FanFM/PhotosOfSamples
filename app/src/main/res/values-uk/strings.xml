@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тест зразків</string>
+    <string name="take_photo">Зробити фото</string>
+    <string name="start_capture">Почати захоплення</string>
+    <string name="stop_capture">Зупинити захоплення</string>
+    <string name="test">LiquidTestPhoto</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="add_new_folder">Новий тест</string>
+    <string name="camera">Камера</string>
+    <string name="gallery">Галерея</string>
+    <string name="send">Надіслати</string>
+    <string name="add">Додати</string>
+    <string name="save">Зберегти</string>
+    <string name="machines">Машини</string>
+    <string name="choose_name">Виберіть назву</string>
+    <string name="title_activity_machines">MachinesActivity</string>
+    <string name="machines_and_hosts">Машини та хости</string>
+    <string name="choose_option">Виберіть варіант</string>
+</resources>

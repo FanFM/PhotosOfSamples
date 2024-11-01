@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">תמונות של דוגמאות</string>
+    <string name="take_photo">צלם תמונה</string>
+    <string name="start_capture">התחל לכידה</string>
+    <string name="stop_capture">הפסק לכידת</string>
+    <string name="test">LiquidTestPhoto</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="add_new_folder">מבחן חדש</string>
+    <string name="camera">מצלמה</string>
+    <string name="gallery">גלריה</string>
+    <string name="send">שלח</string>
+    <string name="add">הוסף</string>
+    <string name="save">שמור</string>
+    <string name="machines">מכונות</string>
+    <string name="choose_name">בחר שם</string>
+    <string name="title_activity_machines">MachinesActivity</string>
+    <string name="machines_and_hosts">מכונות ומארחים</string>
+    <string name="choose_option">לבחור אפשרות</string>
+</resources>
